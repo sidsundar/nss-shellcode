@@ -1,0 +1,6 @@
+
+Hex dump of section '.text':
+  0x00000000 eb175e48 31c04831 d2b00148 89c7b20c ..^H1.H1...H....
+  0x00000010 0f0548ff cfb03c0f 05e8e4ff ffff4865 ..H...<.......He
+  0x00000020 6c6c6f20 776f726c 642100            llo world!.
+
